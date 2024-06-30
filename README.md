@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maitreya444&label=Profile%20views&color=0e75b6&style=flat" alt="maitreya444" /> </p>
 
-- 🌱 I’m currently learning DSA, **MEAN Stack, Linux & Unix OS.**
+- 🌱 I’m currently learning **DSA, MEAN Stack and Internals of UNIX OS.**
 
-- 👯 I Love Reading Tech Books **O'reilly publication is my favorite.**
+- 👯 I Love Reading Tech Books **O'Reilly publication is my favorite.**
 
-- 📫 How to reach me **gangurdemaitreya@gmail.com**
+- 📫 How to reach me **maitreyagangurdeworks@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
